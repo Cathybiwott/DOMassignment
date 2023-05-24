@@ -10,7 +10,7 @@ li.innerHTML = 'Apple'
 
 document.getElementById('fruList').appendChild(li);
 
-// let li = document.createElement('li');
-// li.innerHTML = 'Potatoes'
+let li2 = document.createElement('li2');
+li2.innerHTML = 'Potatoes'
 
-// document.getElementById('vegList').appendChild(li);
+document.getElementById('vegList').appendChild(li2);
